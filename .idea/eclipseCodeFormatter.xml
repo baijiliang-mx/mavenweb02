@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="projectSpecificProfile">
+      <ProjectSpecificProfile>
+        <option name="formatter" value="ECLIPSE" />
+        <option name="pathToConfigFileJava" value="E:/上海大数据实训/10月SSH框架整合（1609B）/代码规范/java编码规范.xml" />
+        <option name="selectedJavaProfile" value="Java编码规范_BOSS" />
+      </ProjectSpecificProfile>
+    </option>
+  </component>
+</project>
